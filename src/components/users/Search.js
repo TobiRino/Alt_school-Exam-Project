@@ -29,7 +29,7 @@ const Search = () => {
         <input
           type="text"
           name="text"
-          placeholder="Enter "TobiRino" here..."
+          placeholder="Enter TobiRino here..."
           value={text}
           onChange={onChange}
         />
