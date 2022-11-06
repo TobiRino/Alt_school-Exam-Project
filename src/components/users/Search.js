@@ -29,13 +29,13 @@ const Search = () => {
         <input
           type="text"
           name="text"
-          placeholder="Search Users..."
+          placeholder="Enter "TobiRino" here..."
           value={text}
           onChange={onChange}
         />
         <input
           type="submit"
-          value="Search"
+          value="Go to Repo"
           className="btn btn-dark btn-block"
         />
       </form>
